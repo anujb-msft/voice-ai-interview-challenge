@@ -97,14 +97,15 @@ enterprise platform. There are no unpublished surprise mandatory features.
 A polished synchronized wizard, outbound callback reproduction, real enterprise
 identity integration, a scale platform, and live human transfer are out of scope.
 
-## Reference, not a solution to copy
+## Reference and optional starting point
 
 The pinned [IT help desk password-reset gallery
 demo](https://github.com/anujb-msft/voice-ai-template-gallery/tree/ea32df55646762aa8c0d1e76308ef82ba252a5ff/docs/templates/it-helpdesk-password-reset)
-is inspiration. It is an **outbound, browser-synchronized demo and explicitly not
-production-ready**. This challenge is inbound and has different trust boundaries.
-Do not copy the whole reference or reproduce its elaborate wizard; a minimal
-secure form is sufficient.
+is an **outbound, browser-synchronized demo, not production-ready**.
+You may reuse or adapt the **full template**, respecting its license and attribution
+obligations and owning your submission. Reproducing its full outbound synchronized
+wizard is **not required**; only this challenge's inbound secure-link requirements
+are assessed. A minimal secure form is sufficient.
 
 ## Deliver privately
 
